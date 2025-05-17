@@ -65,7 +65,7 @@ This project aims to **bridge the gap between visual data and narrative understa
    ⇩  
 6. **Get enriched Caption**
    ⇩  
-8. **Calculate metric - Recall@k , CLIP Score**
+7. **Calculate metric - Recall@k , CLIP Score**
 
 ---
 
